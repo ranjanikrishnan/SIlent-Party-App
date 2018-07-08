@@ -12,7 +12,7 @@ The silent music player is a concert that attempts to eliminate noise pollution 
 ## 2.1 INTRODUCTION
 
 Silent music party provide functionality of Synchronized listing of the music, shared stored playlist, voting for the song (applicable only for dancing people) and transferring of messages. The system revolves around two types of users namely Organizer and Party member where each user is capable of performing limited tasks which are relevant to their roles.
-##2.2 Roles and entities
+## 2.2 Roles and entities
 Below are the tasks lists for each role:
 **Entities**
  - user roles (organizer, party people)
