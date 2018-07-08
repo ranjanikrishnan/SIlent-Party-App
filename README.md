@@ -14,6 +14,7 @@ The silent music player is a concert that attempts to eliminate noise pollution 
 Silent music party provide functionality of Synchronized listing of the music, shared stored playlist, voting for the song (applicable only for dancing people) and transferring of messages. The system revolves around two types of users namely Organizer and Party member where each user is capable of performing limited tasks which are relevant to their roles.
 ## 2.2 Roles and entities
 Below are the tasks lists for each role:
+
 **Entities**
  - user roles (organizer, party people)
  - party event
@@ -46,7 +47,7 @@ The roles of the application are descibed in the next slide using use case diagr
 # 3. Architecture
 ![Architecture](architecture.png)
 
-##3.1 Description of Technical Architecture:
+## 3.1 Description of Technical Architecture:
 The framework provides detailed description about the functioning and technical features of the application. It mainly combines multiple wireless hosts forming a temporary network without the assistance of any centralized services. We designed a flexible framework for UI design that allows the app to be more interactive. Our user interface primarily focuses on the requirements of the target user.
  
 ## 3.2 Interactive UI:
