@@ -65,6 +65,6 @@ We used java sockets to enable communication mechanism between the peers for mes
 Implemented the APK on android mobile and extracted the snapshots to describe the functions of the application.
 
 # 5. Conclusion
-As a team, we worked on developing silent music party application which lead to the achievement of goals defined in the project feature list. This application minimises the noise caused in the party place and  provides us with the environmental benefits. It enables users to make use of the developed application in an intuitive way. We, conclude by saying that this approach is Noiseless and user friendly.
+Worked on developing silent music party application which lead to the achievement of goals defined in the project feature list. This application minimises the noise caused in the party place and  provides us with the environmental benefits. It enables users to make use of the developed application in an intuitive way. The conclusion is that this approach is noiseless and user friendly.
 
 
